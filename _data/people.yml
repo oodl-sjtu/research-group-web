@@ -1,116 +1,146 @@
 
-prof-a:
-    display_name: "Prof A"
-    role: faculty
+# prof-a:
+#    display_name: "Prof A"
+#    role: faculty
 
-prof-b:
-    display_name: "Prof B"
+profhe:
+    display_name: "Gufeng He"
+#   webpage: "http://en.wikipedia.org/wiki/Professor_X"
+#   github: profx
     role: faculty
-
-prof-c:
-    display_name: "Prof C"
-    role: faculty
-
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
-    role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/GufengHe.jpg
     bio: Professor
 
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
+#scott:
+#    display_name: "Scott Summers"
+#    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
+#    role: staff
+#    image: /img/people/scott.png
+#    bio: aka Cyclops
+#
+#wolverine:
+#    display_name: "Wolverine"
+#    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
+#    github: wolverine
+#    role: postdoc
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+Dong:
+    display_name: "Dan Dong"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
-    image: /img/people/storm.png
+    image: /img/people/DanDong.jpg
+    bio: Ph.D Student
 
-grad-a:
-    display_name: "Grad A"
+Lian:
+    display_name: "Lu Lian"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Ph.D Student
+    image: /img/people/LuLian.jpg
 
-grad-b:
-    display_name: "Graduate Student B With Long Name"
+Zhu:
+    display_name: "Feng Zhu"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Ph.D Student
+    image: /img/people/FengZhu.jpg
 
-grad-c:
-    display_name: "Grad C"
+Zhao:
+    display_name: "Yu Zhao"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Ph.D Student
+    image: /img/people/YuZhao.jpg
 
-grad-d:
-    display_name: "Grad D"
+XuDY:
+    display_name: "Dingyan Xu"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Master Student
+    image: /img/people/DingyanXu.jpg
 
-grad-e:
-    display_name: "Grad E"
+Wu:
+    display_name: "Siyao Wu"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Master Student
+    image: /img/people/SiyaoWu.jpg
 
-grad-f:
-    display_name: "Grad F"
+XuXL:
+    display_name: "Xinglei Xu"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Master Student
+    image: /img/people/XingleiXu.jpg
 
-grad-g:
-    display_name: "Grad G"
+Yan:
+    display_name: "Zekun Yan"
+#   webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
     role: grad
+    bio: Undergraduate Student
+    image: /img/people/ZekunYan.jpg
 
-grad-h:
-    display_name: "Grad H"
-    role: grad
-
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
 
 alum-h:
-    display_name: "Alum H"
+    display_name: "Xinkai Wu"
     role: alum
+    bio: "Ph.D., 2012-2016. Now at Huawei."
+
+alum-l:
+    display_name: "Jun Liu"
+    role: alum
+    bio: "Ph.D., 2010-2015. Now at Fingerprint Cards."
+
+alum-a:
+    display_name: "Han Wang"
+    role: alum
+    bio: "M.S., 2016-2019. Now at Huawei."
+
+alum-b:
+    display_name: "Dongxu Feng"
+    role: alum
+    bio: "M.S., 2015-2018."
+
+alum-c:
+    display_name: "Bingwu Wei"
+    role: alum
+    bio: "M.S., 2014-2017."
+#   webpage: "https://www.google.com"
+
+alum-d:
+    display_name: "Shuai Yang"
+    role: alum
+    bio: "M.S., 2014-2017. Now at Bank of Hangzhou."
+
+alum-e:
+    display_name: "Meijun Yang"
+    role: alum
+    bio: "M.S., 2013-2016. Now at EastMoney."
+
+alum-f:
+    display_name: "Zhiyuan Min"
+    role: alum
+    bio: "M.S., 2013-2016. Now at Ant Financial."
+
+alum-g:
+    display_name: "Yang Wang"
+    role: alum
+    bio: "M.S., 2013-2016. Now at Alibaba Local Service Company."
 
 alum-i:
-    display_name: "Alum I"
+    display_name: "Xindong Shi"
     role: alum
+    bio: "M.S., 2012-2015. Now at Huawei."
+
+alum-j:
+    display_name: "Saijun Huang"
+    role: alum
+    bio: "M.S., 2011-2014. Now at iQiyi."
+
+alum-k:
+    display_name: "Jing Wang"
+    role: alum
+    bio: "M.S., 2011-2014. Now at Huawei."
 
 collab-a:
     display_name: "Collaborator A"

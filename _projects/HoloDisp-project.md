@@ -1,19 +1,18 @@
 ---
-title: Project with a Longer Title
-subtitle: And a subtitle
+title: Holograpic Display
+subtitle: True 3D Display
 
 description: |
   This project has a long title, but no other content.
   Setting the `no-link` property means that there's no link.
 
 people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+  - Wu
+  - Yan
+  - Profhe
+
 
 layout: project
 no-link: true
-last-updated: 2016-11-11
+last-updated: 2014-11-11
 ---

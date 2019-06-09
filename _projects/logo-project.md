@@ -3,6 +3,8 @@ title: Logo Project
 
 notitle: true
 
+status: inactive
+
 description: |
   This project has a sweet logo!
 
@@ -13,7 +15,7 @@ people:
 
 layout: project
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Xmencomic-logo.svg/2000px-Xmencomic-logo.svg.png"
-last-updated: 2017-04-11
+last-updated: 2014-04-11
 ---
 
 Some preliminary text.
